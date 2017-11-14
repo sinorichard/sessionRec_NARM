@@ -10,6 +10,15 @@ We have additionally released our Theano implementation of Neural Attentive Reco
 
 Author: Jing Li (jingli.sdu@gmail.com)
 
+
+@inproceedings{li2017neural,
+	title={Neural Attentive Session-based Recommendation},
+	author={Li, Jing and Ren, Pengjie and Chen, Zhumin and Ren, Zhaochun and Lian, Tao and Ma, Jun},
+	booktitle={Proceedings of the 2017 ACM on Conference on Information and Knowledge Management},
+	pages={1419-1428},
+	year={2017}
+}
+
 ## Datasets
 
 YOOCHOOSE: http://2015.recsyschallenge.com/challenge.html
